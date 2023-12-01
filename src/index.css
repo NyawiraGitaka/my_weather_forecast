@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to right,#007fff, #87cefa);
+    font-family: 'Nunito', sans-serif;
+  
+   
+}
+.weather-forecast-app{
+    background: whitesmoke;
+    border-radius: 15px;
+    margin: 45px auto; 
+    max-width: 700px;
+    padding: 30px;
+    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.1);
+
+}
